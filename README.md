@@ -30,4 +30,4 @@ To run the site locally, run `jekyll serve --watch`, then visit `http://localhos
 This project uses [Sass](http://sass-lang.com/ "Link to Learn More About Sass") for managing its style sheets. These styles are defined in the [`styles.scss` file](assets/_sass/styles.scss). We use [Jekyll's native SASS support](https://jekyllrb.com/docs/assets/) to auto-generate the required CSS when you run the site locally, as described above.
 
 ## License
-Insert license here. Original playbook is public domain.
+Apache 2.0
