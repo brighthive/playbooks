@@ -1,3 +1,3 @@
-# BrightHive Jobseeker Tools Playbook
+# Jobseeker Tools Playbook
 
 Lorem ipsum

@@ -1,3 +1,3 @@
-# BrightHive Contact Tracing Playbook
+# Contact Tracing Playbook
 
 Lorem ipsum
