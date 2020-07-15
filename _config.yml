@@ -1,0 +1,12 @@
+permalink: pretty
+highlighter: rouge
+url: https://playbooks.brighthive.io
+
+collections:
+  - contact_tracing_plays
+  - jobseeker_tools_plays
+
+markdown: kramdown
+
+sass:
+    sass_dir: assets/_sass
