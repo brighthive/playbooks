@@ -1,3 +1,3 @@
-# Contact Tracing Playbook
+# Responsible Data Use Playbook for Digital Contact Tracing 
 
-Lorem ipsum
+Launching Tuesday, July 21, 10am EDT

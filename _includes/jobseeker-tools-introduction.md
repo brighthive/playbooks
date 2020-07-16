@@ -1,3 +1,3 @@
-# Jobseeker Tools Playbook
+# Responsible Data Use Playbook for Jobseeker Tools
 
-Lorem ipsum
+Launching Tuesday, July 21, 10am EDT
