@@ -110,6 +110,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     font-family: $serif;
     font-size: 20px;
     font-weight: 700;
+    padding-top: 20px;
   }
 
   h4 {
@@ -126,7 +127,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     font-size: 14px;
     font-weight: 300;
     line-height: 1.5em;
-    //margin-bottom: 15px; XXX
+    margin-bottom: 15px;
   }
 
   p {
@@ -203,7 +204,8 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   #introduction {
     background: $white;
     color: $bh-green-dark;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 0px;
 
     a {
       text-decoration: underline;
@@ -272,7 +274,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     h3 {
-      //padding: 20px 0; XXX
+      padding: 20px 0;
       margin-top: 0;
       font-weight: 300;
       color: $bh-green-dark;
