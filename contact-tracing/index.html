@@ -71,7 +71,7 @@
   {% for play in site.contact_tracing_plays %}
     <div class="inner_container">
       <a class="anchor_offset" id="play{{ play.play_number }}"></a>
-      <h6>PLAY {{ play.play_number }}</h6>
+      <h6>PLAY {{ play.play_number }}: {{ play.play_type }} </h6>
       <h2 class="display">{{ play.title }}</h2>
 
       {{ play.output }}
