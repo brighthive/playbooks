@@ -48,3 +48,5 @@ This playbook was informed by the following resources: insights and recommendati
 BrightHive would like to thank Kelly Dolan, Autumn Felty, Natalie Evans Harris, Samantha Levy, Brian Lim, Natalie Ortiz, Hana Passen, Joanna Tess, and Maithri Vangala for their expertise and contributions to the development of this playbook.
 
 Future of Privacy Forum would like to thank Kelsey Finch, Dr. Sara Jordan, Brenda Leong, Katelyn Ringrose, Pollyanna Sanderson, and Dr. Rachele Hendricks-Sturrup for their expertise and contributions to the development of this playbook.
+
+### Footnotes
