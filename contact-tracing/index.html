@@ -54,8 +54,14 @@
       <a class="anchor_offset" id="plays_index_anchor"></a>
       <h2>Responsible Data Use Playbook for Digital Contact Tracing</h2>
       <div class="columns">
+        <h4>Foundational and Organizational</h4>
         <ol>
         {% for play in site.contact_tracing_plays %}
+          {% if play.play_number == 10 %}
+            </ol>
+            <h4>Technical and Operational</h4>
+            <ol start="10">
+          {% endif %}
           <li><a href="#play{{ play.play_number }}" title="View Play {{ play.play_number }}">{{ play.title }}</a></li>
         {% endfor %}
         </ol>
