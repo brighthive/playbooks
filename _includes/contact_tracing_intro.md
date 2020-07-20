@@ -1,5 +1,3 @@
-# Not for Publication: Playbook Launch Scheduled for Tuesday, July 21, 10am
-
 ### Introduction
 COVID-19 is an unprecedented public health crisis. As the disease continues to spread through communities across the U.S. and abroad, information about the illness continues to evolve. To slow the spread, public health officials are turning to contact tracing as a means to track cases, identify sources of transmission, and inform people who may have been exposed to take precautions that can prevent further transmission. 
 
