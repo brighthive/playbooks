@@ -238,7 +238,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     p {
-      max-width: 700px;
+      //max-width: 700px;
       font-family: $serif;
       font-size: 20px;
       font-weight: 300;
@@ -472,7 +472,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   #plays, #techfar {
     h2, h3 {
-      @include span-columns(8);
+      @include span-columns(10);
     }
     h3 {
       // margin-top: 0px;
@@ -484,11 +484,11 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     p {
-      @include span-columns(9);
+      @include span-columns(12);
     }
 
     ol, ul {
-      @include span-columns(8);
+      @include span-columns(10);
       list-style-position: outside;
       padding-left: 25px;
     }
@@ -534,10 +534,10 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     @include media($slimmer) {
       h2, h3 {
-        @include span-columns(9);
+        @include span-columns(10);
       }
       p {
-        @include span-columns(10);
+        @include span-columns(12);
       }
     }
   }
