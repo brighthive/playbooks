@@ -148,8 +148,8 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   .inner_container {
-    @include shift(1);
-    @include span-columns(10);
+    @include shift(0);
+    @include span-columns(12);
 
     @include media($mobile) {
       @include shift(0);
