@@ -29,9 +29,9 @@ The technical and operational plays support implementing the DCTT initiative in 
 While plays are geared toward different roles, BrightHive and FPF advise collaborating across team and function through the lifecycle of the DCTT initiative.
 
 *Take the Next Step*
-* Suggest a play to add to this playbook or suggest edits by [sending us a message](https://brighthive.io/make-a-playbook-suggestion/).
-* Discuss this playbook and share learnings with others using the playbook in our [BrightHive Slack Community](https://brighthive.io/slack-community-signup/).
-* [Connect with a BrightHive team member](https://brighthive.io/playbook-next-steps/) to learn how BrightHive can help you solve a responsible data sharing challenge.
+- Suggest a play to add to this playbook or suggest edits by [sending us a message](https://brighthive.io/make-a-playbook-suggestion/).
+- Discuss this playbook and share learnings with others using the playbook in our [BrightHive Slack Community](https://brighthive.io/slack-community-signup/).
+- [Connect with a BrightHive team member](https://brighthive.io/playbook-next-steps/) to learn how BrightHive can help you solve a responsible data sharing challenge.
 
 
 [^1]: Tokens are a unique identifier tied to a user's phone.  Apps that make use of rotating tokens change the token identified with a user's phone on a regular basis. This helps protect user privacy by essentially dividing a user's data across multiple identities.

@@ -11,9 +11,9 @@ The Responsible Data Use Playbook for Job Seeker Tools is intended to provide pr
 In this playbook, you will find four guiding principles and seven plays—each illuminated through real-life examples. We hope that over time, the community will continue to offer suggestions for other useful examples of progress.
 
 *Take the Next Step*
-* Suggest a play to add to this playbook or suggest edits by [sending us a message](https://brighthive.io/make-a-playbook-suggestion/).
-* Discuss this playbook and share learnings with others using the playbook in our [BrightHive Slack Community](https://brighthive.io/slack-community-signup/).
-* [Connect with a BrightHive team member](https://brighthive.io/playbook-next-steps/) to learn how BrightHive can help you solve a responsible data sharing challenge.
+- Suggest a play to add to this playbook or suggest edits by [sending us a message](https://brighthive.io/make-a-playbook-suggestion/).
+- Discuss this playbook and share learnings with others using the playbook in our [BrightHive Slack Community](https://brighthive.io/slack-community-signup/).
+- [Connect with a BrightHive team member](https://brighthive.io/playbook-next-steps/) to learn how BrightHive can help you solve a responsible data sharing challenge.
 
 ### Guiding Principles
 This playbook was developed using four guiding principles to ground the overall vision and each of the plays. 
@@ -24,11 +24,11 @@ This playbook was developed using four guiding principles to ground the overall 
 
 ### Guiding Use Cases
 The highest priority use cases for jobseeker tools at this time revolve around: 
-* **Mapping** out all the job opportunities and credentialing programs in a region
-* **Measuring** the market value of the available credentialing programs and in-demand skills
-* **Aligning** on pathways to opportunity that fill local needs and meet the job seekers where they are 
-* **Recommending** specific pathways to individuals given the skills and credentials they've got and their goals, and 
-* **Coordinating** on wraparound supports among service providers (e.g. health, housing, childcare) to ensure the pathway is accessible and feasible for those most in need.
+- **Mapping** out all the job opportunities and credentialing programs in a region
+- **Measuring** the market value of the available credentialing programs and in-demand skills
+- **Aligning** on pathways to opportunity that fill local needs and meet the job seekers where they are 
+- **Recommending** specific pathways to individuals given the skills and credentials they've got and their goals, and 
+- **Coordinating** on wraparound supports among service providers (e.g. health, housing, childcare) to ensure the pathway is accessible and feasible for those most in need.
 
 ### Examples of States at Work
 As state and local governments, non-profit organizations, private vendors, and philanthropic organizations seek to provide the best information and resources for job seekers, here are a few approaches that exhibit best practices.

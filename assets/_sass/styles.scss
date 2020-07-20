@@ -7,6 +7,7 @@ $pacific_blue:          #046B99; // primary-alt-darkest
 $miami_vice_blue:       $pacific_blue; // original
 $white:                 #fff;
 $black:                 #323A45; // gray-dark
+$bh-bondi-blue:       #0097A7;
 $bh-green:            #4797a7;
 $bh-green-dark:       #4eae73;
 $bh-green-medium:     #73ba8c;
@@ -203,7 +204,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   #introduction {
     background: $white;
-    color: $bh-green-dark;
+    color: $bh-bondi-blue;
     padding-top: 20px;
     padding-bottom: 0px;
 
@@ -213,7 +214,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     a:hover {
       background: $white;
-      color: $bh-green-light;
+      color: $bh-bondi-blue;
     }
 
     #bh_logo {
@@ -268,7 +269,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     width: 100%;
     height: 0;
     background: $white;
-    color: $bh-green-dark;
+    color: $bh-bondi-blue;
     .outer_container {
       padding: 0 40px;
     }
@@ -277,7 +278,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       padding: 20px 0;
       margin-top: 0;
       font-weight: 300;
-      color: $bh-green-dark;
+      color: $bh-bondi-blue;
       // line-height: 20px;
       display: inline-block;
 
@@ -295,7 +296,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     .active {
       a {
-        background: $bh-green-dark;
+        background: $bh-bondi-blue;
         color: $black;
         text-decoration: none;
       }
@@ -315,10 +316,10 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
         font-family: $serif;
         font-weight: lighter;
         color: $black;
-        border: 1px solid $bh-green-dark;
+        border: 1px solid $bh-bondi-blue;
       }
       a:hover {
-        background: $bh-green-light;
+        background: $bh-bondi-blue;
         color: $black;
         text-decoration: none;
       }
@@ -382,7 +383,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   #plays_index {
-    background: $bh-green-medium;
+    background: $bh-bondi-blue;
     padding-bottom: 60px;
     color: $white;
 
