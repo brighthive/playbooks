@@ -60,7 +60,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   ol {
     list-style-type: decimal;
-    list-style-position: inside;
+    //list-style-position: inside;
     li {
       margin: 1em 0;
       color: $black;
@@ -69,7 +69,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   ul {
     list-style-type: circle;
-    list-style-position: inside;
+    //list-style-position: inside;
     li {
       margin: 1em 0;
       color: $black;
