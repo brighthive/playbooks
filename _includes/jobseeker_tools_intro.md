@@ -1,5 +1,4 @@
 # Not for Publication: Playbook Launch Scheduled for Tuesday, July 21, 10am
-# Responsible Data Use Playbook for Job Seeker Tools
 
 ### Introduction
 Public and private agencies of all kinds have long attempted to develop useful job seeker tools. The massive unemployment crisis caused by COVID-19 highlights the urgent need for a more synchronized response from the philanthropic, private, and public sectors to enhance job seekers’ experiences and ultimately bridge the gap between available talent and workforce demand. Now more than ever, job seekers need a collaborative approach grounded in the lived experiences of the people struggling in the labor market today. We need to put their needs front and center and provide them more relevant, actionable information and support. 
