@@ -472,7 +472,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   #plays, #techfar {
     h2, h3 {
-      @include span-columns(10);
+      @include span-columns(12);
     }
     h3 {
       // margin-top: 0px;
@@ -534,7 +534,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     @include media($slimmer) {
       h2, h3 {
-        @include span-columns(10);
+        @include span-columns(12);
       }
       p {
         @include span-columns(12);
