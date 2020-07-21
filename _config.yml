@@ -1,6 +1,7 @@
 permalink: pretty
 highlighter: rouge
 url: https://playbooks.brighthive.io
+google_analytics: UA-153784380-1
 
 collections:
   - contact_tracing_plays
