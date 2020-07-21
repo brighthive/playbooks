@@ -27,7 +27,7 @@ While plays are geared toward different roles, BrightHive and FPF advise collabo
 
 *Take the Next Step*
 - Suggest a play to add to this playbook or suggest edits by [sending us a message](https://brighthive.io/make-a-playbook-suggestion/).
-- Discuss this playbook and share learnings with others using the playbook in our [BrightHive Slack Community](https://brighthive.io/slack-community-signup/).
+- Discuss this playbook and share learnings with others using the playbook in our [BrightHive Responsible Data Sharing Community](https://brighthive.io/slack-community-signup/).
 - [Connect with a BrightHive team member](https://brighthive.io/playbook-next-steps/) to learn how BrightHive can help you solve a responsible data sharing challenge.
 
 
