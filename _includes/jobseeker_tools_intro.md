@@ -42,4 +42,4 @@ In New Jersey, the current job seeker solution is a trio of tools. New Jersey wa
 ### Acknowledgements
 BrightHive owes its gratitude to co-authors Alli Bell (Three Arrows Up Consulting), Michelle R. Weise (Imaginable Futures), and expert contributors Patrick Lane (Western Interstate Commission for Higher Education, WICHE), Kelle Parsons (American Institutes for Research), and Brian Prescott, (National Center For Higher Education Management Systems, NCHEMS), for the creation of this playbook.
 
-BrightHive would like to thank team members Kelly Dolan, Matt Gee, Natalie Evans Harris, Hana Passen, Danielle Saunders, Matt Stevens, and Maithri Vangala for their expertise and contributions to the development of this playbook.
+BrightHive would like to thank team members Maithri Vangala, Danielle Saunders, Matt Stevens, Hana Passen, Kelly Dolan, Natalie Evans Harris, and Matt Gee for their expertise and contributions to the development of this playbook.

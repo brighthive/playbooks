@@ -42,8 +42,8 @@ While plays are geared toward different roles, BrightHive and FPF advise collabo
 This playbook was informed by the following resources: insights and recommendations from FPF [workshops](https://fpf.org/2020/03/27/privacy-and-pandemics-a-thoughtful-discussion/), [publications](https://fpf.org/tag/pandemic/) & [testimony](https://fpf.org/2020/04/09/fpf-provides-senate-testimony-on-strategies-to-mitigate-privacy-risks-of-using-data-to-combat-covid-19/); Georgetown Beeck Center [Data Governance Handbook](https://beeckcenter.georgetown.edu/wp-content/uploads/2020/01/Data-Sharing-Appendix.pdf); Johns Hopkins [Digital Contact Tracing book](https://muse.jhu.edu/book/75831/pdf); [Law.MIT principles](https://law.mit.edu/) and related efforts; [STAT](https://www.statnews.com/2020/06/05/contact-tracing-technology-protect-people-from-discrimination-disease/) news articles and commentary; and other data protection COVID-19 [guidance](https://sites.google.com/fpf.org/covid-19-privacy-resources/#h.p_l4tfppxBBjkU)/resources. 
 
 ### Acknowledgements
-BrightHive would like to thank Kelly Dolan, Autumn Felty, Matt Gee, Natalie Evans Harris, Samantha Levy, Brian Lim, Natalie Ortiz, Hana Passen, Joanna Tess, and Maithri Vangala for their expertise and contributions to the development of this playbook.
+BrightHive would like to thank Maithri Vangala, Natalie Ortiz, Samantha Levy, Hana Passen, Brian Lim, Autumn Felty, Joanna Tess, Kelly Dolan, Natalie Evans Harris, and Matt Gee for their expertise and contributions to the development of this playbook.
 
-Future of Privacy Forum would like to thank Kelsey Finch, Dr. Sara Jordan, Brenda Leong, Katelyn Ringrose, Pollyanna Sanderson, and Dr. Rachele Hendricks-Sturrup for their expertise and contributions to the development of this playbook.
+Future of Privacy Forum would like to thank Kelsey Finch, Sara Jordan, RacheleHendricks-Sturrup, Pollyanna Sanderson, Brenda Leong, and Katelyn Ringrose for theirexpertise and contributions to the development of this playbook.
 
 ### Footnotes
