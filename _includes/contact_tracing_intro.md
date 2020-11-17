@@ -45,7 +45,7 @@ While health behavior changes at the population level, such as social distancing
 
 Public health authorities, application developers, and users of DCTT need better information on how to best preserve privacy and ensure ethical use of contact tracing data, so they can better scale contact tracing initiatives and reduce the spread of COVID-19. 
 
-[BrightHive](https://brighthive.io/) and the [Future of Privacy Forum](https://fpf.org/) teamed up to kick off this privacy playbook to assist the coalitions of professionals invested in development and deployment of trusted DCTT. The playbook provides a series of actionable steps that purposefully address the privacy concerns of DCTT and support the development of ethical and responsible digital contact tracing protocols. 
+[Brighthive](https://brighthive.io/) and the [Future of Privacy Forum](https://fpf.org/) teamed up to kick off this privacy playbook to assist the coalitions of professionals invested in development and deployment of trusted DCTT. The playbook provides a series of actionable steps that purposefully address the privacy concerns of DCTT and support the development of ethical and responsible digital contact tracing protocols. 
 
 In particular, this playbook has been developed with the following types of scenarios, or use cases, in mind: 1) easing tension between application providers, public health officials, and government authorities; 2) supporting “opt-in” models for individuals to share health and location data; 3) supporting employers that are turning to internal contact tracing when their workplaces reopen.
 
@@ -53,12 +53,12 @@ This playbook is organized into two categories: Foundational and organizational 
 
 The technical and operational plays support implementing the DCTT initiative in a way that is consistent with other plays, the coalition’s values, and users’ privacy rights. These plays are geared toward technical, project management, and day-to-day operational roles in the initiative. 
 
-While plays are geared toward different roles, BrightHive and FPF advise collaborating across team and function through the lifecycle of the DCTT initiative.
+While plays are geared toward different roles, Brighthive and FPF advise collaborating across team and function through the lifecycle of the DCTT initiative.
 
 *Take the Next Step*
 - Suggest a play to add to this playbook or suggest edits by [sending us a message](https://brighthive.io/make-a-playbook-suggestion/).
-- Discuss this playbook and share learnings with others using the playbook in our [BrightHive Responsible Data Sharing Slack Community](https://brighthive.io/slack-community-signup/).
-- [Connect with a BrightHive team member](https://brighthive.io/playbook-next-steps/) to learn how BrightHive can help you solve a responsible data sharing challenge.
+- Discuss this playbook and share learnings with others using the playbook in our [Brighthive Responsible Data Sharing Slack Community](https://brighthive.io/slack-community-signup/).
+- [Connect with a Brighthive team member](https://brighthive.io/playbook-next-steps/) to learn how Brighthive can help you solve a responsible data sharing challenge.
 
 
 [^1]: Tokens are a unique identifier tied to a user's phone.  Apps that make use of rotating tokens change the token identified with a user's phone on a regular basis. This helps protect user privacy by essentially dividing a user's data across multiple identities.
@@ -72,7 +72,7 @@ While plays are geared toward different roles, BrightHive and FPF advise collabo
 This playbook was informed by the following resources: insights and recommendations from FPF [workshops](https://fpf.org/2020/03/27/privacy-and-pandemics-a-thoughtful-discussion/), [publications](https://fpf.org/tag/pandemic/) & [testimony](https://fpf.org/2020/04/09/fpf-provides-senate-testimony-on-strategies-to-mitigate-privacy-risks-of-using-data-to-combat-covid-19/); Georgetown Beeck Center [Data Governance Handbook](https://beeckcenter.georgetown.edu/wp-content/uploads/2020/01/Data-Sharing-Appendix.pdf); Johns Hopkins [Digital Contact Tracing book](https://muse.jhu.edu/book/75831/pdf); [Law.MIT principles](https://law.mit.edu/) and related efforts; [STAT](https://www.statnews.com/2020/06/05/contact-tracing-technology-protect-people-from-discrimination-disease/) news articles and commentary; and other data protection COVID-19 [guidance](https://sites.google.com/fpf.org/covid-19-privacy-resources/#h.p_l4tfppxBBjkU)/resources. 
 
 ### Acknowledgements
-BrightHive would like to thank Maithri Vangala, Natalie Ortiz, Samantha Levy, Hana Passen, Brian Lim, Autumn Felty, Joanna Tess, Kelly Dolan, Natalie Evans Harris, and Matt Gee for their expertise and contributions to the development of this playbook.
+Brighthive would like to thank Maithri Vangala, Natalie Ortiz, Samantha Levy, Hana Passen, Brian Lim, Autumn Felty, Joanna Tess, Kelly Dolan, Natalie Evans Harris, and Matt Gee for their expertise and contributions to the development of this playbook.
 
 Future of Privacy Forum would like to thank Kelsey Finch, Sara Jordan, RacheleHendricks-Sturrup, Pollyanna Sanderson, Brenda Leong, and Katelyn Ringrose for theirexpertise and contributions to the development of this playbook.
 
