@@ -126,7 +126,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   h4 {
     font-family: $header-font;
-    font-size: 17px;
+    font-size: 22px;
     font-weight: 700;
     line-height: 1.5em;
     color: $bh-bondi-blue;
@@ -228,6 +228,9 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     h3 {
       font-family: $header-font;
+      font-size: 24px;
+      font-weight: 700;
+      padding-top: 20px;
     }
 
     a {
@@ -265,7 +268,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       font-size: 20px;
       font-weight: 300;
       line-height: 2.0em;
-      margin-top: 40px;
+      margin-top: 20px;
 
       color: $black;
     }
@@ -498,12 +501,9 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     h2, h3 {
       //@include span-columns(12); remove if possible
     }
+
     h6 {
       font-family: $body-font;
-    }
-    h3 {
-      // margin-top: 0px;
-      color: $atlantic_blue;
     }
 
     h2 {
@@ -511,14 +511,25 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       margin-bottom: 24px;
     }
 
+    h3 {
+      color: $bh-bondi-blue;
+      font-family: $header-font;
+      font-size: 22px;
+      font-weight: 700;
+      padding-top: 15px;
+      margin-bottom: 15px;
+    }
+
     p {
       @include span-columns(12);
+      margin-bottom: 19px;
     }
 
     ol, ul {
       @include span-columns(12);
       list-style-position: outside;
       padding-left: 25px;
+      margin-bottom: 15px;
       font-family: $body-font;
     }
 
@@ -533,6 +544,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     ul {
+      margin-top: 0px;
       list-style-image: url("../images/bullet-circle.svg");
     }
 
