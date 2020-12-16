@@ -8,9 +8,9 @@ The Responsible Data Use Playbook for Job Seeker Tools is intended to provide pr
 In this playbook, you will find four guiding principles and seven plays—each illuminated through real-life examples. We hope that over time, the community will continue to offer suggestions for other useful examples of progress.
 
 *Take the Next Step*
-- Suggest a play to add to this playbook or suggest edits by [sending us a message](https://brighthive.io/make-a-playbook-suggestion/).
+- Suggest a play to add to this playbook or suggest edits by [sending us a message](mailto:community@brighthive.io).
 - Discuss this playbook and share learnings with others using the playbook in our [Brighthive Responsible Data Sharing Slack Community](https://brighthive.io/slack-community-signup/).
-- [Connect with a Brighthive team member](https://brighthive.io/playbook-next-steps/) to learn how Brighthive can help you solve a responsible data sharing challenge.
+- [Connect with a Brighthive team member](mailto:info@brighthive.io) to learn how Brighthive can help you solve a responsible data sharing challenge.
 
 ### Guiding Principles
 This playbook was developed using four guiding principles to ground the overall vision and each of the plays. 
