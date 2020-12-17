@@ -7,11 +7,6 @@ The Responsible Data Use Playbook for Job Seeker Tools is intended to provide pr
 
 In this playbook, you will find four guiding principles and seven plays—each illuminated through real-life examples. We hope that over time, the community will continue to offer suggestions for other useful examples of progress.
 
-*Take the Next Step*
-- Suggest a play to add to this playbook or suggest edits by [sending us a message](mailto:community@brighthive.io).
-- Discuss this playbook and share learnings with others using the playbook in our [Brighthive Responsible Data Sharing Slack Community](https://brighthive.io/slack-community-signup/).
-- [Connect with a Brighthive team member](mailto:info@brighthive.io) to learn how Brighthive can help you solve a responsible data sharing challenge.
-
 ### Guiding Principles
 This playbook was developed using four guiding principles to ground the overall vision and each of the plays. 
 1. Job seeker experience and needs should be the focus, and should include support, guidance, and advising in addition to digital tools and resources.
@@ -38,6 +33,11 @@ Part of the Data for American Dream initiative, My Colorado Journey is powered b
 
 #### New Jersey
 In New Jersey, the current job seeker solution is a trio of tools. New Jersey was one of the first states to stand up a rapid response effort to help those laid off as a result of COVID-19 days within the declaration of the public health emergency. The pre-COVID-19 job seeker solution is the New Jersey Career Network, a digital coaching tool that helps people navigate their job search. Finally, there is a more targeted approach for low-income, lower skilled, and under- and unemployed individuals being developed as part of the Data for the American Dream initiative. The New Jersey Career Network and Data for the American Dream initiatives are led by the New Jersey Department of Labor and Workforce Development; the COVID-19 rapid response effort was led by the New Jersey Economic Development Authority in consultation with Labor. The Governor’s Innovation Office is the digital lead on all three of these tools.This approach will help the state ensure that it meets the demands of different audiences of job seekers in the state.
+
+*Take the Next Step*
+- Suggest a play to add to this playbook or suggest edits by [sending us a message](mailto:community@brighthive.io).
+- Discuss this playbook and share learnings with others using the playbook in our [Brighthive Responsible Data Sharing Slack Community](https://brighthive.io/slack-community-signup/).
+- [Connect with a Brighthive team member](mailto:info@brighthive.io) to learn how Brighthive can help you solve a responsible data sharing challenge.
 
 ### Acknowledgements
 Brighthive owes its gratitude to co-authors Alli Bell (Three Arrows Up Consulting), Michelle R. Weise (Imaginable Futures), and expert contributors Patrick Lane (Western Interstate Commission for Higher Education, WICHE), Kelle Parsons (American Institutes for Research), and Brian Prescott, (National Center For Higher Education Management Systems, NCHEMS), for the creation of this playbook.

@@ -55,11 +55,6 @@ The technical and operational plays support implementing the DCTT initiative in 
 
 While plays are geared toward different roles, Brighthive and FPF advise collaborating across team and function through the lifecycle of the DCTT initiative.
 
-*Take the Next Step*
-- Suggest a play to add to this playbook or suggest edits by [sending us a message](mailto:community@brighthive.io).
-- Discuss this playbook and share learnings with others using the playbook in our [Brighthive Responsible Data Sharing Slack Community](https://brighthive.io/slack-community-signup/).
-- [Connect with a Brighthive team member](mailto:info@brighthive.io) to learn how Brighthive can help you solve a responsible data sharing challenge.
-
 
 [^1]: Tokens are a unique identifier tied to a user's phone.  Apps that make use of rotating tokens change the token identified with a user's phone on a regular basis. This helps protect user privacy by essentially dividing a user's data across multiple identities.
 [^2]: Andy Greenberg. “How Apple and Google Are Enabling Covid-19 Contact-Tracing.” Wired. April 10, 2020. https://www.wired.com/story/apple-google-bluetooth-contact-tracing-covid-19/.
@@ -70,6 +65,11 @@ While plays are geared toward different roles, Brighthive and FPF advise collabo
 
 ### Resources
 This playbook was informed by the following resources: insights and recommendations from FPF [workshops](https://fpf.org/2020/03/27/privacy-and-pandemics-a-thoughtful-discussion/), [publications](https://fpf.org/tag/pandemic/) & [testimony](https://fpf.org/2020/04/09/fpf-provides-senate-testimony-on-strategies-to-mitigate-privacy-risks-of-using-data-to-combat-covid-19/); Georgetown Beeck Center [Data Governance Handbook](https://beeckcenter.georgetown.edu/wp-content/uploads/2020/01/Data-Sharing-Appendix.pdf); Johns Hopkins [Digital Contact Tracing book](https://muse.jhu.edu/book/75831/pdf); [Law.MIT principles](https://law.mit.edu/) and related efforts; [STAT](https://www.statnews.com/2020/06/05/contact-tracing-technology-protect-people-from-discrimination-disease/) news articles and commentary; and other data protection COVID-19 [guidance](https://sites.google.com/fpf.org/covid-19-privacy-resources/#h.p_l4tfppxBBjkU)/resources. 
+
+*Take the Next Step*
+- Suggest a play to add to this playbook or suggest edits by [sending us a message](mailto:community@brighthive.io).
+- Discuss this playbook and share learnings with others using the playbook in our [Brighthive Responsible Data Sharing Slack Community](https://brighthive.io/slack-community-signup/).
+- [Connect with a Brighthive team member](mailto:info@brighthive.io) to learn how Brighthive can help you solve a responsible data sharing challenge.
 
 ### Acknowledgements
 Brighthive would like to thank Maithri Vangala, Natalie Ortiz, Samantha Levy, Hana Passen, Brian Lim, Autumn Felty, Joanna Tess, Kelly Dolan, Natalie Evans Harris, and Matt Gee for their expertise and contributions to the development of this playbook.
