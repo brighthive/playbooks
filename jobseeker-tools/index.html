@@ -3,13 +3,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>BrightHive Jobseeker Tools Playbook</title>
+  <title>Responsible Data Use Playbook for Job Seeker Tools</title>
   <meta charset='UTF-8'/>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <link href='//fonts.googleapis.com/css?family=Merriweather:400,300,700|Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
-  <link rel='shortcut icon' href='{{site.baseurl}}/assets/images/favicon.ico' type='image/x-icon' />
-  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/images/favicon-32x32.png" sizes="32x32" />
-  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/images/favicon-16x16.png" sizes="16x16" />
+  <meta property="og:title" content="Responsible Data Use Playbook for Job Seeker Tools" />
+  <meta property="og:image" content="{{site.baseurl}}/assets/images/BH-thumbnail.jpg" />
+  <meta property="og:url" content="https://playbooks.brighthive.io/jobseeker-tools/" />
+  <meta property="og:description" content="Playbook for responsible data use to create collaborative tools for job seekers" />
+  <!-- <link href='//fonts.googleapis.com/css?family=Merriweather:400,300,700|Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'> -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&family=Roboto+Slab&display=swap" rel="stylesheet">
+  <link rel='shortcut icon' href='{{site.baseurl}}/assets/images/BH-favicon.png' type='image/x-icon' />
+  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/images/BH-favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/images/BH-favicon-16x16.png" sizes="16x16" />
   <link href='{{site.baseurl}}/assets/css/styles.css' rel='stylesheet' />
 </head>
 
@@ -19,7 +25,7 @@
    <div class="outer_container">
     <div class="inner_container">
 
-      <a href="#introduction"><h3>BrightHive Jobseeker Tools Playbook</h3></a>
+      <a href="#introduction"><h3>Responsible Data Use Playbook for Job Seeker Tools</h3></a>
       <ul class="nav">
         {% for play in site.jobseeker_tools_plays %}
           <li class="play_square"><a href="#play{{ play.play_number }}" title="View Play {{ play.play_number }}: {{ play.title }}">{{ play.play_number }}</a></li>
@@ -35,9 +41,22 @@
 <div id="introduction">
   <div class="outer_container">
     <div class="inner_container">
-      <a id="bh_logo" href="https://brighthive.io" target="_blank" title="Link to BrightHive"><img src='{{site.baseurl}}/assets/images/brighthive-2019-logo.png' alt="Logo of BrightHive"></a>
-      {% capture introduction %}{% include introduction.md %}{% endcapture %}
+      <a id="bh_logo" href="https://brighthive.io" target="_blank" title="Link to BrightHive"><img src='{{site.baseurl}}/assets/images/BH-logo.png' alt="Logo of BrightHive"></a>
+      <br/>
+      <h1>Responsible Data Use Playbook for Job Seeker Tools</h1>
+      <div class="button">
+        <a href="#plays_index_anchor" title="View the Plays">Go directly to the plays</a>
+      </div>
+      <div class="button">
+        <a href="https://raw.githubusercontent.com/brighthive/playbooks/gh-pages/pdfs/jobseeker-tools.pdf" title="Download PDF">Download the PDF</a>
+      </div>
+      {% capture introduction %}{% include jobseeker_tools_intro.md %}{% endcapture %}
       {{ introduction | markdownify }}
+      <br/>
+      <br/>
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+      <br/>
+      <br/>
       <div class="button">
         <a href="#plays_index_anchor" title="View the Plays">See the plays</a>
       </div>
@@ -52,7 +71,7 @@
   <div class="outer_container">
     <div class="inner_container">
       <a class="anchor_offset" id="plays_index_anchor"></a>
-      <h2>Digital Service Plays</h2>
+      <h2>Jobseeker Tools Plays</h2>
       <div class="columns">
         <ol>
         {% for play in site.jobseeker_tools_plays %}
@@ -82,5 +101,6 @@
 <script src='{{site.baseurl}}/assets/js/jquery-1.11.1.min.js'></script>
 <script src='{{site.baseurl}}/assets/js/scrollspy.js'></script>
 <script src='{{site.baseurl}}/assets/js/site.js'></script>
+  {% include google-analytics.html %}
 </body>
 </html>

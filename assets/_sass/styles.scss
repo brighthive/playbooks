@@ -7,6 +7,7 @@ $pacific_blue:          #046B99; // primary-alt-darkest
 $miami_vice_blue:       $pacific_blue; // original
 $white:                 #fff;
 $black:                 #323A45; // gray-dark
+$bh-bondi-blue:       #0FBAA8; // old BH color: #0097A7
 $bh-green:            #4797a7;
 $bh-green-dark:       #4eae73;
 $bh-green-medium:     #73ba8c;
@@ -22,6 +23,9 @@ $bh-gray-dark:        #3f3f3f;
 // Fonts
 $serif:               'Merriweather', Georgia, serif;
 $sans-serif:          'Source Sans Pro', sans-serif;
+$title-font:          'Montserrat', sans-serif;
+$header-font:          'Roboto Slab', serif;
+$body-font:          'Roboto', sans-serif;
 
 // Mobile Breakpoints
 $mobile: new-breakpoint(min-width 0px max-width 640px 4);
@@ -30,7 +34,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 @media screen {
   body {
     background: $white;
-    font-family: $serif;
+    font-family: $title-font;
     margin: 0;
     line-height: 1.5em;
   }
@@ -41,7 +45,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   a {
     color: inherit;
-    font-family: inherit;
+    font-family: $header-font;
     font-weight: inherit;
     text-decoration: none;
   }
@@ -57,12 +61,28 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     text-decoration: underline;
   }
 
-  ol, ul {
+  ol {
     list-style-type: decimal;
-    list-style-position: inside;
+    //list-style-position: inside;
     li {
       margin: 1em 0;
       color: $black;
+    }
+    a {
+      font-family: $body-font;
+    }
+  }
+
+  ul {
+    list-style-type: circle;
+    //list-style-position: inside;
+    li {
+      font-family: $body-font;
+      margin: 1em 0;
+      color: $black;
+    }
+    a {
+      font-family: $body-font;
     }
   }
 
@@ -79,14 +99,14 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   h2 {
-    font-family: $serif;
+    font-family: $title-font;
     font-size: 30px;
     line-height: 1.375em;
     font-weight: 300;
   }
 
   h2.display {
-    font-family: $serif;
+    font-family: $title-font;
     font-size: 54px;
     line-height: 1.3em;
     font-weight: 300;
@@ -98,17 +118,18 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   h3 {
-    font-family: $serif;
+    font-family: $header-font;
     font-size: 20px;
     font-weight: 700;
+    padding-top: 20px;
   }
 
   h4 {
-    font-family: $serif;
-    font-size: 17px;
+    font-family: $header-font;
+    font-size: 22px;
     font-weight: 700;
     line-height: 1.5em;
-    color: $pacific_blue;
+    color: $bh-bondi-blue;
     margin-bottom: 0;
   }
 
@@ -122,9 +143,13 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   p {
     color: $black;
+    font-family: $body-font;
     font-weight: 400;
     font-size: 17px;
     line-height: 2.0em;
+    a {
+      font-family: $body-font;
+    }
   }
 
   .outer_container {
@@ -137,8 +162,8 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   .inner_container {
-    @include shift(1);
-    @include span-columns(10);
+    @include shift(0);
+    @include span-columns(12);
 
     @include media($mobile) {
       @include shift(0);
@@ -190,19 +215,32 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     font-family: $sans-serif;
   }
 
-
   #introduction {
     background: $white;
-    color: $bh-green-dark;
-    padding-bottom: 60px;
+    color: $bh-bondi-blue;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    font-family: $body-font;
+
+    h1 {
+      font-family: $title-font;
+    }
+
+    h3 {
+      font-family: $header-font;
+      font-size: 24px;
+      font-weight: 700;
+      padding-top: 20px;
+    }
 
     a {
+      font-family: $body-font;
       text-decoration: underline;
     }
 
     a:hover {
       background: $white;
-      color: $bh-green-light;
+      color: $bh-bondi-blue;
     }
 
     #bh_logo {
@@ -226,12 +264,11 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     p {
-      max-width: 700px;
-      font-family: $serif;
+      //max-width: 700px;
       font-size: 20px;
       font-weight: 300;
       line-height: 2.0em;
-      margin-top: 40px;
+      margin-top: 20px;
 
       color: $black;
     }
@@ -257,7 +294,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     width: 100%;
     height: 0;
     background: $white;
-    color: $bh-green-dark;
+    color: $bh-bondi-blue;
     .outer_container {
       padding: 0 40px;
     }
@@ -266,9 +303,10 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       padding: 20px 0;
       margin-top: 0;
       font-weight: 300;
-      color: $bh-green-dark;
+      color: $bh-bondi-blue;
       // line-height: 20px;
       display: inline-block;
+      font-family: $title-font;
 
     }
     h3:hover {
@@ -284,7 +322,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     .active {
       a {
-        background: $bh-green-dark;
+        background: $bh-bondi-blue;
         color: $black;
         text-decoration: none;
       }
@@ -301,13 +339,13 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
         width: 24px;
         line-height: 22px;
         text-align: center;
-        font-family: $serif;
+        font-family: $header-font;
         font-weight: lighter;
         color: $black;
-        border: 1px solid $bh-green-dark;
+        border: 1px solid $bh-bondi-blue;
       }
       a:hover {
-        background: $bh-green-light;
+        background: $bh-bondi-blue;
         color: $black;
         text-decoration: none;
       }
@@ -371,11 +409,12 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   #plays_index {
-    background: $bh-green-medium;
+    background: $bh-bondi-blue;
     padding-bottom: 60px;
     color: $white;
 
     h2 {
+      font-family: $header-font;
       margin-bottom: 38px;
     }
 
@@ -460,25 +499,40 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   #plays, #techfar {
     h2, h3 {
-      @include span-columns(8);
+      //@include span-columns(12); remove if possible
     }
-    h3 {
-      // margin-top: 0px;
-      color: $atlantic_blue;
+
+    h6 {
+      font-family: $body-font;
     }
 
     h2 {
+      font-family: $header-font;
+      font-size: 45px;
+      color: $bh-bondi-blue;
       margin-bottom: 24px;
     }
 
+    h3 {
+      color: $bh-bondi-blue;
+      font-family: $header-font;
+      font-size: 22px;
+      font-weight: 700;
+      padding-top: 15px;
+      margin-bottom: 15px;
+    }
+
     p {
-      @include span-columns(9);
+      @include span-columns(12);
+      margin-bottom: 19px;
     }
 
     ol, ul {
-      @include span-columns(8);
+      @include span-columns(12);
       list-style-position: outside;
       padding-left: 25px;
+      margin-bottom: 15px;
+      font-family: $body-font;
     }
 
     ol {
@@ -492,6 +546,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
 
     ul {
+      margin-top: 0px;
       list-style-image: url("../images/bullet-circle.svg");
     }
 
@@ -522,10 +577,10 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     @include media($slimmer) {
       h2, h3 {
-        @include span-columns(9);
+        @include span-columns(12);
       }
       p {
-        @include span-columns(10);
+        @include span-columns(12);
       }
     }
   }
@@ -549,7 +604,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 @media print {
   body {
     background: white;
-    font-family: $serif;
+    font-family: $header-font;
     font-weight: lighter;
     line-height: 1.5em;
     font-size: 12px;
@@ -588,7 +643,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   h2, h4 {
-    width: 66%;
+    width: 100%;
   }
 
   h2 {
